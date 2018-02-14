@@ -1,1 +1,8 @@
-console.log("Hello World");
+function factorial(num) {
+    var result = 1;
+    for(var i = num; i > 0; i--) {
+        result = result * i;
+    }
+
+    return result;
+}
