@@ -19,3 +19,5 @@ function factorial(num) {
 
     return result;
 }
+
+console.log("What is git");
