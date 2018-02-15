@@ -21,3 +21,4 @@ function factorial(num) {
 }
 
 console.log("What is git");
+console.log("Git is version control tool.");
